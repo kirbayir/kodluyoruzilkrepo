@@ -6,7 +6,7 @@ Bu repo [Patika.dev](https://patika.dev) GIT Eğitimi kapsamında oluşturduğum
 
 ## Installation
 
-Öncelikle projeyi clonelayın. (Buraya sizin reponuzdan aldığınız link gelecek)
+Projeyi klonlamak için aşağıdaki kodu kullanıyoruz. 
 
 ```bash
 git clone https://github.com/cengizcmataraci/kodluyoruzilkrepo.git
