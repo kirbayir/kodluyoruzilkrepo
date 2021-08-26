@@ -9,21 +9,12 @@ Bu repo [Patika.dev](https://patika.dev) GIT Eğitimi kapsamında oluşturduğum
 Projeyi klonlamak için aşağıdaki kodu kullanıyoruz. 
 
 ```bash
-git clone https://github.com/cengizcmataraci/kodluyoruzilkrepo.git
+git clone https://github.com/kirbayir/kodluyoruzilkrepo.git
 ```
 
 ## Usage
 
 Projeyi cloneladıktan sonra Visual Studio Code programında açınız.
-
-Linux için:
-```linux
-cd kodluyoruzilkrepo
-code .
-```
-
-## Contributing
-Pull requestler kabul edilir. Büyük değişiklikler için, lütfen önce neyi değiştirmek istediğinizi tartışmak için bir konu açınız.
 
 
 ## License
